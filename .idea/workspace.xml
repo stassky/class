@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="608343ad-8340-4ee3-8b7f-0e20f9d1c592" name="Default Changelist" comment="yj">
-      <change beforePath="$PROJECT_DIR$/class/Class 4/Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/Class 4/Selenium.py" afterDir="false" />
-    </list>
+    <list default="true" id="608343ad-8340-4ee3-8b7f-0e20f9d1c592" name="Default Changelist" comment="yj" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/class/Class 4/Selenium.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="263">
-              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -97,7 +95,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -281,7 +300,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15699404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -421,7 +439,7 @@
     <entry file="file://$PROJECT_DIR$/class/Class 4/Selenium.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
