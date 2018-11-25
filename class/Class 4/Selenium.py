@@ -23,4 +23,3 @@ driver.find_element_by_id("gt-submit").click()
 button_element = driver.find_element_by_id("gt-submit")
 button_element.click()
 driver.quit()
-#kugmh
